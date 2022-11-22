@@ -26,7 +26,7 @@ export function createTray(window: BrowserWindow) {
       acceleratorWorksWhenHidden: false,
     },
     {
-      label: 'Rocketseat',
+      label: 'DotDoc',
       accelerator: 'CommandOrControl+3',
       acceleratorWorksWhenHidden: false,
     },

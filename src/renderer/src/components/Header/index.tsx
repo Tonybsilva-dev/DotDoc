@@ -58,7 +58,7 @@ export function Header({ isSidebarOpen }: HeaderProps) {
         <>
           <Breadcrumbs.Root>
             <Breadcrumbs.Item>
-              <Code weight="bold" className="h-4 w-4 text-pink-500" />
+              <Code weight="bold" className="h-4 w-4 text-green-500" />
               Estrutura técnica
             </Breadcrumbs.Item>
             <Breadcrumbs.Separator />
