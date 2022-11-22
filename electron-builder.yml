@@ -34,7 +34,7 @@ linux:
     - rpm
     - pacman
     - freebsd
-  maintainer: rocketseat.com.br
+  maintainer: tonybsilvadev@gmail.com
   synopsis: ${description}
   category: Utility
 appImage:
